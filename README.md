@@ -9,6 +9,7 @@
 
 - ROS2 (Humble)
 - PCL (Point Cloud Library)
+- LASlib
 - OpenCV
 - GTSAM
 - Ceres Solver
